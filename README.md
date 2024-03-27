@@ -24,7 +24,7 @@ This Python script allows you to transcribe audio and video files using the Wit.
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/marouane53/transcribe.git
+   git clone https://github.com/Simo-Ben-azzouz/transcribe.git
 
 2. Install the required Python packages:
    3. Install ffmpeg:
